@@ -39,3 +39,6 @@ Thank you, BTK Akademi, for the excellent ASP.NET Core Web API course! I truly a
 - [Original Github Repository](https://github.com/zcomert/BTK-Akademi-ASPNET-Core-Web-Api)
 - [Zafer CÖMERT Github](https://github.com/zcomert)
 - [Btk Akademi Website](https://www.btkakademi.gov.tr/)
+
+## Certificate
+![Certificate](https://raw.githubusercontent.com/kagankuscu/BTK-Akademi-ASPNETCore-Web-API/main/Certificate/Asp.Net_Core_Web_API_Sertifika.jpeg.png)
